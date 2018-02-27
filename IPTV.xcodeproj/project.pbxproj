@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		13CD5D79E3854EAD9405E7D4BA584229 /* TVPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0041447188BD68AE36CC8E8FF38023 /* TVPlayerViewController.m */; };
+		3D89A7991F2D2305E2C9A08B1C6BB208 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FFF0DA56A8E8EBFCA6B5B2998E4ACE7 /* LaunchScreen.storyboard */; };
+		4D231CA20E2A0A8F2AE65F345ACE1329 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B8735B8D7FC9AFA80E639826DCF18CFE /* AppDelegate.m */; };
+		4E8DC62E204536A000A8789C /* IJKMediaFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8DC62A204536A000A8789C /* IJKMediaFramework.framework */; };
+		4E8DC62F204536A000A8789C /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8DC62B204536A000A8789C /* libcrypto.a */; };
+		4E8DC630204536A000A8789C /* libssl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8DC62C204536A000A8789C /* libssl.a */; };
+		4E8DC631204536A000A8789C /* SRPPlayerViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8DC62D204536A000A8789C /* SRPPlayerViewController.framework */; };
+		532E064EEABC5E0490203BEB85722C78 /* TVChannelListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 60643A8600BD56A61563D864626CDADA /* TVChannelListController.m */; };
+		7078332552F457BFECA0809A47B35C53 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 203A64F26BF891EC56AB2DA3C2D66C08 /* libz.tbd */; };
+		79E910CEBA867B7058064350D0574138 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A970829510E1895FFBBAC71D4EB65D8 /* Images.xcassets */; };
+		9F410DCD619AAA48E7A44D75D0D5F57D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2DBF604C52DF0B453A77830BD124DE7 /* Main.storyboard */; };
+		C0BF44F5548EBD78D4EEA8A1138CB220 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F2FD9A199155EA24DCA1C4C59B4225C /* Localizable.strings */; };
+		ECC1B0121A5EC136CF653BACA899A926 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0275548C340A89994938001E5462A32E /* main.m */; };
+		F733FD18B9F29BBB53FB20411ABBE935 /* ChannelList.plist in Resources */ = {isa = PBXBuildFile; fileRef = E0463066A66376B415066A9DC6B36A28 /* ChannelList.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0275548C340A89994938001E5462A32E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1C7C2F83A3D60CB04725ADDB841166F0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		203A64F26BF891EC56AB2DA3C2D66C08 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		24053244F0F275FF19D7B6263B4C0363 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26EAD96F601D8EF4763A2298CBB9BBBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2FFF0DA56A8E8EBFCA6B5B2998E4ACE7 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4BEB94F36D2727B8CFC788D69E1743BB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4C74177F419D4A5C7257C8FE85691821 /* TVChannelListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVChannelListController.h; sourceTree = "<group>"; };
+		4E8DC62A204536A000A8789C /* IJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IJKMediaFramework.framework; sourceTree = "<group>"; };
+		4E8DC62B204536A000A8789C /* libcrypto.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libcrypto.a; sourceTree = "<group>"; };
+		4E8DC62C204536A000A8789C /* libssl.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libssl.a; sourceTree = "<group>"; };
+		4E8DC62D204536A000A8789C /* SRPPlayerViewController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SRPPlayerViewController.framework; sourceTree = "<group>"; };
+		60643A8600BD56A61563D864626CDADA /* TVChannelListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TVChannelListController.m; sourceTree = "<group>"; };
+		60E8A13DD3E25E3A7899C77A61565D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		782E5426118A5106CF8A193A3B4053E3 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Main.strings"; sourceTree = "<group>"; };
+		96F58B4EDF620D785BC8359802A0AFB0 /* IPTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IPTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A970829510E1895FFBBAC71D4EB65D8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = IPTV/Images.xcassets; sourceTree = "<group>"; };
+		AC0041447188BD68AE36CC8E8FF38023 /* TVPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TVPlayerViewController.m; sourceTree = "<group>"; };
+		ADFEB3AB7AF2D227295ABD71F3DCF5FE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		B4BAFC65FA5AB4BD8378468D260F2177 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		B8735B8D7FC9AFA80E639826DCF18CFE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E0463066A66376B415066A9DC6B36A28 /* ChannelList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ChannelList.plist; sourceTree = "<group>"; };
+		E753D1D346BC53FE80CD40DA63BAC9D6 /* TVPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVPlayerViewController.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E27AB610105E2CA041B564407A0B24E3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E8DC630204536A000A8789C /* libssl.a in Frameworks */,
+				7078332552F457BFECA0809A47B35C53 /* libz.tbd in Frameworks */,
+				4E8DC631204536A000A8789C /* SRPPlayerViewController.framework in Frameworks */,
+				4E8DC62E204536A000A8789C /* IJKMediaFramework.framework in Frameworks */,
+				4E8DC62F204536A000A8789C /* libcrypto.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08F05BD727849998832F4F708533E9A5 = {
+			isa = PBXGroup;
+			children = (
+				4E8DC629204536A000A8789C /* SRPPlayerViewController */,
+				A7EB95E801175E73664C78CD26515856 /* Frameworks */,
+				C4631D39F683460299409104E317A59C /* IPTV */,
+				FFF0CCA3999D91A7C084626F0678B816 /* Products */,
+				6536FCCE12F8EAA4B3E33EEF2EC99692 /* Supporting Files */,
+				9A970829510E1895FFBBAC71D4EB65D8 /* Images.xcassets */,
+			);
+			sourceTree = "<group>";
+		};
+		4E8DC629204536A000A8789C /* SRPPlayerViewController */ = {
+			isa = PBXGroup;
+			children = (
+				4E8DC62A204536A000A8789C /* IJKMediaFramework.framework */,
+				4E8DC62B204536A000A8789C /* libcrypto.a */,
+				4E8DC62C204536A000A8789C /* libssl.a */,
+				4E8DC62D204536A000A8789C /* SRPPlayerViewController.framework */,
+			);
+			path = SRPPlayerViewController;
+			sourceTree = "<group>";
+		};
+		6536FCCE12F8EAA4B3E33EEF2EC99692 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E0463066A66376B415066A9DC6B36A28 /* ChannelList.plist */,
+				24053244F0F275FF19D7B6263B4C0363 /* Info.plist */,
+				0F2FD9A199155EA24DCA1C4C59B4225C /* Localizable.strings */,
+				0275548C340A89994938001E5462A32E /* main.m */,
+			);
+			name = "Supporting Files";
+			path = IPTV;
+			sourceTree = "<group>";
+		};
+		A7EB95E801175E73664C78CD26515856 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				203A64F26BF891EC56AB2DA3C2D66C08 /* libz.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C4631D39F683460299409104E317A59C /* IPTV */ = {
+			isa = PBXGroup;
+			children = (
+				1C7C2F83A3D60CB04725ADDB841166F0 /* AppDelegate.h */,
+				B8735B8D7FC9AFA80E639826DCF18CFE /* AppDelegate.m */,
+				2FFF0DA56A8E8EBFCA6B5B2998E4ACE7 /* LaunchScreen.storyboard */,
+				A2DBF604C52DF0B453A77830BD124DE7 /* Main.storyboard */,
+				4C74177F419D4A5C7257C8FE85691821 /* TVChannelListController.h */,
+				60643A8600BD56A61563D864626CDADA /* TVChannelListController.m */,
+				E753D1D346BC53FE80CD40DA63BAC9D6 /* TVPlayerViewController.h */,
+				AC0041447188BD68AE36CC8E8FF38023 /* TVPlayerViewController.m */,
+			);
+			path = IPTV;
+			sourceTree = "<group>";
+		};
+		FFF0CCA3999D91A7C084626F0678B816 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				96F58B4EDF620D785BC8359802A0AFB0 /* IPTV.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CA6EBAEDB3DF4A180C42A784F87CE903 /* IPTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6679D5B60C7A1493D7E256A1CBECAB46 /* Build configuration list for PBXNativeTarget "IPTV" */;
+			buildPhases = (
+				6664D99458B1FE1E380B8409B3D51CE7 /* Sources */,
+				E27AB610105E2CA041B564407A0B24E3 /* Frameworks */,
+				EB5D9D327D2CB218F1786DB434692EA1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IPTV;
+			productName = IPTV;
+			productReference = 96F58B4EDF620D785BC8359802A0AFB0 /* IPTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1E1FB298CE6BF24A3074CA23E52CD4DC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = "Shinren Pan";
+				TargetAttributes = {
+					CA6EBAEDB3DF4A180C42A784F87CE903 = {
+						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 22LYKA35Y8;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 04326F80B6F115962BCDACED5F5680E0 /* Build configuration list for PBXProject "IPTV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hant",
+			);
+			mainGroup = 08F05BD727849998832F4F708533E9A5;
+			productRefGroup = FFF0CCA3999D91A7C084626F0678B816 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CA6EBAEDB3DF4A180C42A784F87CE903 /* IPTV */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EB5D9D327D2CB218F1786DB434692EA1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F733FD18B9F29BBB53FB20411ABBE935 /* ChannelList.plist in Resources */,
+				79E910CEBA867B7058064350D0574138 /* Images.xcassets in Resources */,
+				3D89A7991F2D2305E2C9A08B1C6BB208 /* LaunchScreen.storyboard in Resources */,
+				C0BF44F5548EBD78D4EEA8A1138CB220 /* Localizable.strings in Resources */,
+				9F410DCD619AAA48E7A44D75D0D5F57D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6664D99458B1FE1E380B8409B3D51CE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4D231CA20E2A0A8F2AE65F345ACE1329 /* AppDelegate.m in Sources */,
+				532E064EEABC5E0490203BEB85722C78 /* TVChannelListController.m in Sources */,
+				13CD5D79E3854EAD9405E7D4BA584229 /* TVPlayerViewController.m in Sources */,
+				ECC1B0121A5EC136CF653BACA899A926 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0F2FD9A199155EA24DCA1C4C59B4225C /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				26EAD96F601D8EF4763A2298CBB9BBBE /* Base */,
+				4BEB94F36D2727B8CFC788D69E1743BB /* en */,
+				B4BAFC65FA5AB4BD8378468D260F2177 /* zh-Hant */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		A2DBF604C52DF0B453A77830BD124DE7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				60E8A13DD3E25E3A7899C77A61565D71 /* Base */,
+				ADFEB3AB7AF2D227295ABD71F3DCF5FE /* en */,
+				782E5426118A5106CF8A193A3B4053E3 /* zh-Hant */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		01CEC6A6E3D35152E30867D5D0987120 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2875E9630B83811F8539C3118F2AF43B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 22LYKA35Y8;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/IPTV",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/SRPPlayerViewController",
+				);
+				INFOPLIST_FILE = IPTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SRPPlayerViewController",
+					"$(PROJECT_DIR)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shinrenpan.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR) $(PROJECT_DIR)/IPTV $(PROJECT_DIR)/SRPPlayerViewController";
+			};
+			name = Debug;
+		};
+		33D4D219E6D6BD1F68A5CC31CA75C518 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 22LYKA35Y8;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/IPTV",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/SRPPlayerViewController",
+				);
+				INFOPLIST_FILE = IPTV/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SRPPlayerViewController",
+					"$(PROJECT_DIR)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.shinrenpan.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR) $(PROJECT_DIR)/IPTV $(PROJECT_DIR)/SRPPlayerViewController";
+			};
+			name = Release;
+		};
+		F74145784CC86C159285CAB18D483B48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04326F80B6F115962BCDACED5F5680E0 /* Build configuration list for PBXProject "IPTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01CEC6A6E3D35152E30867D5D0987120 /* Debug */,
+				F74145784CC86C159285CAB18D483B48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6679D5B60C7A1493D7E256A1CBECAB46 /* Build configuration list for PBXNativeTarget "IPTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2875E9630B83811F8539C3118F2AF43B /* Debug */,
+				33D4D219E6D6BD1F68A5CC31CA75C518 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1E1FB298CE6BF24A3074CA23E52CD4DC /* Project object */;
+}

@@ -1,0 +1,6 @@
+framework module SRPPlayerViewController {
+  umbrella header "SRPPlayerViewController.h"
+
+  export *
+  module * { export * }
+}
