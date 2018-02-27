@@ -2,8 +2,8 @@
 //  main.m
 //  IPTVViet
 //
-//  Created by Joe Pan on 2015/11/10.
-//  Copyright (c) 2015年 Shinren Pan. All rights reserved.
+//  Created by public on 2/27/18.
+//  Copyright © 2018 Shinren Pan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

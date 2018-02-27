@@ -4,7 +4,7 @@
 
 #import "AppDelegate.h"
 
-NSString * const kIPTVDataBasePath = @"Documents/ChannelList.plist";
+NSString * const kIPTVVietDataBasePath = @"Documents/ChannelList.plist";
 
 
 @implementation AppDelegate
@@ -23,7 +23,7 @@ NSString * const kIPTVDataBasePath = @"Documents/ChannelList.plist";
     // 沒有的話就 Copy 一份
     
     NSFileManager *fileManager = [NSFileManager defaultManager];
-    NSString *copyPath = [NSHomeDirectory() stringByAppendingPathComponent:kIPTVDataBasePath];
+    NSString *copyPath = [NSHomeDirectory() stringByAppendingPathComponent:kIPTVVietDataBasePath];
     
     if([fileManager fileExistsAtPath:copyPath])
     {

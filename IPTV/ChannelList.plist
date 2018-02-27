@@ -10,1437 +10,1431 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Rrokum</string>
+		<string>#EXTINF:-1 , VTV1 HD </string>
 		<key>url</key>
-		<string>http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8</string>
+		<string>http://bit.ly/MobitvVTV1HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV1</string>
+		<string>#EXTINF:-1 , VTV2 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.27:8136</string>
+		<string>http://bit.ly/MobitvVTV2HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV1 HD</string>
+		<string>#EXTINF:-1 , VTV3 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.117:10254</string>
+		<string>http://bit.ly/MobitvVTV3HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV2</string>
+		<string>#EXTINF:-1 , VTV4 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.39:8208</string>
+		<string>http://bit.ly/MobitvVTV4HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV3</string>
+		<string>#EXTINF:-1 , VTV5 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.28:8142</string>
+		<string>http://bit.ly/MobitvVTV5HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV3 HD</string>
+		<string>#EXTINF:-1 , VTV6 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.118:10260</string>
+		<string>http://bit.ly/MobitvVTV6HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV4</string>
+		<string>#EXTINF:-1 , VTV7 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.40:8214</string>
+		<string>http://bit.ly/MobitvVTV7HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV5</string>
+		<string>#EXTINF:-1 , VTV8 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.41:8220</string>
+		<string>http://bit.ly/MobitvVTV8HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV6</string>
+		<string>#EXTINF:-1 , VTV9 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.42:8226</string>
+		<string>http://bit.ly/MobitvVTV9HD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV6 HD</string>
+		<string>#EXTINF:0,VTV8</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.119:10266</string>
+		<string>http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV8</string>
+		<string>#EXTINF:-1, VTV9 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.148:8862</string>
+		<string>http://45.76.4.27:8900/live/freeuser/freeuser/48.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV9</string>
+		<string>#EXTINF:-1 group-title,THVL 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.241:9420</string>
+		<string>http://bit.ly/MobitvTHVL1/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV Thể thao</string>
+		<string>#EXTINF:-1 ,VTC1 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.24:8118</string>
+		<string>http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV1</string>
+		<string>#EXTINF:-1 ,VTC1 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.35:8184</string>
+		<string>http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV2</string>
+		<string>#EXTINF:-1,VTC 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.36:8190</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV2 HD</string>
+		<string>#EXTINF:-1,VTC 1 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.222:9306</string>
+		<string>http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV3</string>
+		<string>#EXTINF:-1,VTC 2 </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.104:8598</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc2.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV4</string>
+		<string>#EXTINF:-1,VTC 3</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.25:8124</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc3.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV7</string>
+		<string>#EXTINF:-1,VTC 3 HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.21:8100</string>
+		<string>http://118.107.68.10:1935/live/vtc3hd_H_5374560ab1a33dfee617ce3516ca502d/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV7 HD</string>
+		<string>#EXTINF:-1,VTC 4</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.223:9312</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/vtc4_576/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV9</string>
+		<string>#EXTINF:-1,VTC 5</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.31:8160</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc5_ad_1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTV9 HD</string>
+		<string>#EXTINF:-1,VTC 7</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.224:9318</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:todaytv_1.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab-MTV</string>
+		<string>#EXTINF:-1 ,VTC7 </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.82:8466</string>
+		<string>http://118.107.68.10:1935/live/_definst_/VTC7a7cf86b2ca3b8aca/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab-MTV HD</string>
+		<string>#EXTINF:-1,VTC 8</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.75:8424</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/vtc8_576/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab1-Giải trí TV</string>
+		<string>#EXTINF:-1,VTC 9</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.143:8832</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc9.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab10-O2TV</string>
+		<string>#EXTINF:-1,VTC 10</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.26:8130</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/vtc10_576/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab12-Style TV</string>
+		<string>#EXTINF:-1,VTC 11</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.244:9438</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:itv_adb.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab14-Lotte</string>
+		<string>#EXTINF:-1,VTC 13</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.140:10356</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:itv_adb.smil/chunklist_b1128000_sleng.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab16-Bóng đá TV</string>
+		<string>#EXTINF:-1,VTC 14</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.138:8802</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc14_1.smil/chunklist_b928000_sleng.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab16-Bóng đá TV HD</string>
+		<string>#EXTINF:-1 group-title, VTC14</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.210:9234</string>
+		<string>http://bit.ly/MobitvVTC14/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab17-yeah1 TV</string>
+		<string>#EXTINF:-1,VTC 16</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.217:9276</string>
+		<string>http://m.tvplay.vn:9999/icomvtc/smil:vtc16.smil/chunklist_b1128000_sleng.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab2-Phim Việt</string>
+		<string>#EXTINF:-1,VTC CA NHAC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.168:8982</string>
+		<string>http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab20-VFamily</string>
+		<string>#EXTINF:-1 group-title, VTC16</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.245:10344</string>
+		<string>http://bit.ly/MobitvVTC16/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab3-Thể thao TV</string>
+		<string>#EXTINF:-1 , ANTG HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.208:9222</string>
+		<string>http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab3-Thể thao TV HD</string>
+		<string>#EXTINF:-1 ,QPVN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.207:9216</string>
+		<string>rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab4-Văn hóa</string>
+		<string>#EXTINF:-1 ,ANTV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.169:8988</string>
+		<string>http://123.30.191.202/hls/antv.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab5-E Channel</string>
+		<string>#EXTINF:-1 group-title,QPVN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.193:9132</string>
+		<string>http://bit.ly/MobitvQPVN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab6-Hay TV</string>
+		<string>#EXTINF:-1 group-title ,Quốc Hội</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.220:9294</string>
+		<string>http://bit.ly/MobitvQuocHoi/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab7-Dramas</string>
+		<string>#EXTINF:-1 group-title,Nhân Dân</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.205:9204</string>
+		<string>http://bit.ly/MobitvNhanDan/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCab8-BiBi</string>
+		<string>#EXTINF:-1 group-title,TTXVN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.206:9210</string>
+		<string>http://bit.ly/MobitvTTXVN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCap13-HYUNDAI</string>
+		<string>#EXTINF:-1 group-title,ANTV HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.142:10386</string>
+		<string>http://bit.ly/MobitvANTVHD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Ca nhạc</string>
+		<string>#EXTINF:-1 group-title,BTV1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.126:8730</string>
+		<string>http://bit.ly/MobitvBTV1/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Du lich va Cuoc sống</string>
+		<string>#EXTINF:-1 group-title,BTV2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.221:9300</string>
+		<string>http://bit.ly/MobitvBTV2/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Gia đình</string>
+		<string>#EXTINF:-1 group-title,BTV4 iMovies HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.170:8994</string>
+		<string>http://bit.ly/MobitvBTV4/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Mua sắm tiêu dùng</string>
+		<string>#EXTINF:-1 group-title,BTV6 Vietten HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.229:9348</string>
+		<string>http://bit.ly/MobitvBTV6/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Paramount HD</string>
+		<string>#EXTINF:-1 group-title,BTV9 An Viên HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.133:9594</string>
+		<string>http://bit.ly/MobitvBTV9/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Phim</string>
+		<string>#EXTINF:-1 group-title,BTV10 NCM</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.105:8604</string>
+		<string>http://bit.ly/MobitvBTV10/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Phụ nữ</string>
+		<string>#EXTINF:-1 group-title, BTV11 Sam HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.127:8736</string>
+		<string>http://bit.ly/MobitvSam/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Thuần Việt</string>
+		<string>#EXTINF:-1 group-title,An Ninh Thế Giới HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.22:8106</string>
+		<string>http://bit.ly/MobitvANTG/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HTVC-Thuần Việt HD</string>
+		<string>#EXTINF:-1 group-title,Miền Tây HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.134:9600</string>
+		<string>http://bit.ly/MobitvMienTay/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC1 HD</string>
+		<string>#EXTINF:-1 group-title,Phim Hay HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.71:8400</string>
+		<string>http://bit.ly/MobitvPhimHay/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC10-Nét Việt</string>
+		<string>#EXTINF:-1 group-title,AXN HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.214:9258</string>
+		<string>http://bit.ly/MobitvAXN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC11-kids TV</string>
+		<string>#EXTINF:-1 group-title,Animal Plannet</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.61:8340</string>
+		<string>http://bit.ly/MobitvAnimal/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC12</string>
+		<string>#EXTINF:-1 group-title,Asian Food Channel</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.202:9186</string>
+		<string>http://bit.ly/MobitvAFC/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC13-iTV</string>
+		<string>#EXTINF:-1 group-title,BBC World News</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.62:8346</string>
+		<string>http://bit.ly/MobitvBBC/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC13-iTV HD</string>
+		<string>#EXTINF:-1 group-title,Cartoon Network</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.74:8418</string>
+		<string>http://bit.ly/MobitvCN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC14</string>
+		<string>#EXTINF:-1 group-title,Channel V HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.216:9270</string>
+		<string>http://bit.ly/MobitvChannelV/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC16-3NTV</string>
+		<string>#EXTINF:-1 group-title,CNN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.215:9264</string>
+		<string>http://bit.ly/MobitvCNN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC2</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502089538618.jpg,Disney Channel</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.57:8322</string>
+		<string>http://bit.ly/MobitvDC/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC3</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502089638274.jpg,Disney Junior</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.60:8232</string>
+		<string>http://bit.ly/MobitvDJ/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC3 HD</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502090396129.jpg,Da Vinci Learning</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.81:8460</string>
+		<string>http://bit.ly/MobitvDaVinci/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC6</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502089760063.jpg,Discovery Channel</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.58:8328</string>
+		<string>http://bit.ly/MobitvDCSD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC7-Today TV</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502089889314.jpg,Discovery Channel HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.213:9252</string>
+		<string>http://bit.ly/MobitvDCHD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC8</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502090147792.jpg,DIVA HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.32:8166</string>
+		<string>http://bit.ly/MobitvDIVA/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC9-Let’s Việt</string>
+		<string>#EXTINF:-1 group-title tvg-logohttps://i.ytimg.com/vi/664fuByTjTs/maxresdefault.jpg,History</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.59:8334</string>
+		<string>http://bit.ly/MobitvHistory/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thông tấn xã Việt Nam</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/static_1502089396039.jpg,HBO SD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.52:8292</string>
+		<string>http://bit.ly/MobitvHBOSD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,An ninh TV</string>
+		<string>#EXTINF:-1 group-title ,Star Movies</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.212:9246</string>
+		<string>http://bit.ly/MobitvSMSD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nhân dân HD</string>
+		<string>#EXTINF:-1 group-title ,Star World</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.235:10350</string>
+		<string>http://bit.ly/MobitvSWSD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quốc hội HD</string>
+		<string>#EXTINF:-1 group-title ,National Geographic Channel HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.234:10290</string>
+		<string>http://bit.ly/MobitvNGCHD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quốc phòng Việt Nam</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/fc50ac7c-582f-4375-b1a5-27af67925b1a.jpg,NHK World</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.228:9342</string>
+		<string>http://bit.ly/MobitvNHK/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quốc phòng Việt Nam HD</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/513f10f1-e9e8-46d5-903c-c0bf1ca40d28.jpg,Fashion TV HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.219:10332</string>
+		<string>http://bit.ly/MobitvFTV/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Xổ số</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/1e667abd-3115-4ea8-a776-eff81359fc12.jpg,Fox Sport</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.211:9240</string>
+		<string>http://bit.ly/MobitvFS1/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HCaTV-HITV</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/91cce024-2bc9-4263-a25f-e99b439d688b.jpg,Fox Sport 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.55:8310</string>
+		<string>http://bit.ly/MobitvFS2/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Animal Planet</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/eac06e2c-db65-4c6b-bbcf-d045c9aa7faf.jpg,TV5 Monde</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.48:8268</string>
+		<string>http://bit.ly/MobitvTV5/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,arirang</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/c2722dd9-205b-4bc0-9e55-97dcdc81018f.jpg,Nhạc Nam Bộ</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.43:8238</string>
+		<string>http://bit.ly/MobitvNhacNB/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Asian Food Channel</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/c5d16848-72e0-4c92-9117-d5101a6a584e.jpg,Nhạc Nhẹ</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.115:10236</string>
+		<string>http://bit.ly/MobitvNhacN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Asian Food Channel HD</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/9da131de-ba03-4ebd-8b05-20ab3448323f.jpg,Nhạc Trẻ</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.129:9570</string>
+		<string>http://bit.ly/MobitvNhacT/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,AXN</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/bf46ad35-9e7e-4ec8-a058-2569d0af4f0e.jpg,Nhạc Cổ Điển</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.14:8058</string>
+		<string>http://bit.ly/MobitvNhacCD/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bloomberg</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/8d08682d-d3fa-4b93-b237-2d679c2bc9b4.jpg,Nhạc Thiếu Nhi</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.7:8016</string>
+		<string>http://bit.ly/MobitvNhacTN/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,CARTOON NETWORK</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/57e580c4-2f9c-41f9-90c0-622ad2690cfe.jpg,Đọc Sách</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.16:8070</string>
+		<string>http://bit.ly/MobitvDocS/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,CCTV4-Tiếng Trung</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/5336b273-68d0-4300-9a4b-15216600fd3d.jpg,Nhạc Trữ Tình</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.3:7992</string>
+		<string>http://bit.ly/MobitvNhacTT/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,CINEMAX</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/f4b79d67-5d96-42fd-a64f-a3c6b63f0e3c.jpg,Nhạc Cách Mạng</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.20:8094</string>
+		<string>http://bit.ly/MobitvNhacCM/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,CNN</string>
+		<string>#EXTINF:-1 group-title tvg-logohttp://static.mobitv.online/8900836b-55bc-4a6a-9cb1-5a2f47e794a8.jpg,Nhạc Dân Tộc</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.126:8076</string>
+		<string>http://bit.ly/MobitvNhacDT/1.5.9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Channel V</string>
+		<string>#EXTINF:-1 ,HA NOI 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.13:8052</string>
+		<string>http://123.30.191.202/hls/hanoi1.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Channel V HD</string>
+		<string>#EXTINF:-1 ,HA NOI 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.132:9588</string>
+		<string>http://123.30.191.202/hls/hanoi2.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Da Vinci Learning</string>
+		<string>#EXTINF:-1 ,An Giang </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.108:10224</string>
+		<string>rtmp://113.161.212.25/live//atv1</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Da Vinci Learning HD</string>
+		<string>#EXTINF:-1 ,Binh Phuoc 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.131:9582</string>
+		<string>http://118.69.197.145/hls/bptv1.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,DISCOVERY</string>
+		<string>#EXTINF:-1 ,Binh Phuoc 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.47:8262</string>
+		<string>http://118.69.197.145/hls/bptv2.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,DISNEY</string>
+		<string>#EXTINF:-1 ,Ben Tre</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.18:8082</string>
+		<string>rtmp://113.163.94.245/livepkgr/thbt</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Disney Junior</string>
+		<string>#EXTINF:-1  ,Bac Lieu </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.90:10398</string>
+		<string>rtmp://118.69.205.213/livepkgr/livestream1</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Diva Universal</string>
+		<string>#EXTINF:-1,Bac Kan</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.109:10230</string>
+		<string>http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Diva Universal HD</string>
+		<string>#EXTINF:-1,CÀ MAU</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.130:9576</string>
+		<string>rtmp://113.161.220.254/livepkgr/ playpathlivestream1?adbe-live-eventliveevent live1 swfUrlhttp://ctvcamau.vn/jwplayer/jwplayer.flash.swf pageUrlhttp://ctvcamau.vn/</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,DW-TV</string>
+		<string>#EXTINF:-1,Cao Bang</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.6:8010</string>
+		<string>http://118.107.76.15:1983/live/CB_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,DW-TV HD</string>
+		<string>#EXTINF:-1 ,DA NANG 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.233:10416</string>
+		<string>http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FASHION</string>
+		<string>#EXTINF:-1 ,DA NANG 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.2:7986</string>
+		<string>http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FOX</string>
+		<string>#EXTINF:-1 ,DAK NONG </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.66:8370</string>
+		<string>rtmp://222.255.158.22/live/truyenhinh</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FOX HD</string>
+		<string>#EXTINF:-1,Ha Giang</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.120:8448</string>
+		<string>http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FOX SPORTS</string>
+		<string>#EXTINF:-1 ,Hau Giang</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.11:8040</string>
+		<string>rtmp://123.30.110.170:1939/thhg/thhg</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FOX SPORTS 2</string>
+		<string>#EXTINF:-1 ,HaNam </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.12:8046</string>
+		<string>rtmp://113.160.198.111:8086/live//hanamtv</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,France 24</string>
+		<string>#EXTINF:-1 ,Ha Tinh </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.135:9606</string>
+		<string>http://hatinhtv.vn/liveevent.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,GEM</string>
+		<string>#EXTINF:-1,Lam Dong</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.84:10392</string>
+		<string>http://118.107.76.15:1983/live/smil:LD_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HBO</string>
+		<string>#EXTINF:-1 ,Lạng Sơn </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.19:8088</string>
+		<string>rtmp://123.18.206.40:1935/live/livestream</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,KBS World</string>
+		<string>#EXTINF:-1,Phu Tho</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.136:9612</string>
+		<string>http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,MEDIACORP</string>
+		<string>#EXTINF:-1,Quang Tri</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.5:8004</string>
+		<string>http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nat Geo People</string>
+		<string>#EXTINF:-1,Son La</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.121:8376</string>
+		<string>http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nat Geo People HD</string>
+		<string>#EXTINF:-1 ,Thai Nguyen</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.76:8430</string>
+		<string>rtmp://45.124.85.26/oflaDemo/livestream</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nat Geo Wild HD</string>
+		<string>#EXTINF:-1,TRA VINH</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.123:8454</string>
+		<string>http://123.30.191.202/hls/travinh.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nat Geo Wild HD</string>
+		<string>#EXTINF:-1 ,TIEN GIANG</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.80:8454</string>
+		<string>http://123.30.191.202/hls/tiengiang.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,National Geographic</string>
+		<string>#EXTINF:-1 ,VITV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.122:8364</string>
+		<string>http://14.160.54.166:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,National Geographic HD</string>
+		<string>#EXTINF:-1 ,Quang Ninh 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.1:7980</string>
+		<string>rtmp://123.29.68.44/hctv/vstv020</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,NHK WORLD</string>
+		<string>#EXTINF:-1 ,Quang Ninh 3</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.8:8022</string>
+		<string>rtmp://123.29.68.44/hctv/vstv021</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,NHK WORLD HD</string>
+		<string>#EXTINF:-1 ,VINH PHUC </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.72:8406</string>
+		<string>rtmp://117.6.162.63/live/thvp</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,OPT 1-Tiếng Nga</string>
+		<string>#EXTINF:-1 ,Quang Tri </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.63:8352</string>
+		<string>http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Outdoor Channel HD</string>
+		<string>#EXTINF:,Da Nang 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.107:10218</string>
+		<string>http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,POCCNR PTP-Tiếng Nga</string>
+		<string>#EXTINF:-1 ,Sóc trăng </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.127:8544</string>
+		<string>rtmp://115.78.3.164/live/stv1</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Rai Italia</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,HBO HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.124:8358</string>
+		<string>http://183.88.212.205:8010/play/a00u</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Red By HBO</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,HBO</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.44:8244</string>
+		<string>http://183.88.212.205:8010/play/a00m</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Red By HBO HD</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,RED BY HBO</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.9:8028</string>
+		<string>http://183.88.212.205:8010/play/a03c</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,RTTiếng Nga</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,AXN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.125:8538</string>
+		<string>http://183.88.212.205:8010/play/a00i</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,STAR MOVIES</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CINEMAX</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.10:8034</string>
+		<string>http://183.88.212.205:8010/play/a00n</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Star Movies HD</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,WORLD MOVIES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.77:8436</string>
+		<string>http://183.88.212.205:8010/play/a01k</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Star World</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,SKYNET MOVIES HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.119:8382</string>
+		<string>http://183.88.212.205:8010/play/a00v</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Star World HD</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,MYANMAR MOVIES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.78:8442</string>
+		<string>http://183.88.212.205:8010/play/a01h</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,TOONAMI</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,ZEE CINEMA ME</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.91:10404</string>
+		<string>http://183.88.212.205:8010/play/a01n</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,TV5MONDE</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FOX ACTION MOVIES HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.45:8250</string>
+		<string>http://183.88.212.205:8010/play/a010</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Travel vaLiving</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,WORLD DRAMA</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.49:8274</string>
+		<string>http://183.88.212.205:8010/play/a01x</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,SCTV10-Az Shop</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FOX MOVIES PREMIUM</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.233:10284</string>
+		<string>http://183.88.212.205:8010/play/a01l</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,SCTV5-SCJ Shopping</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,STAR CHINESE MOVIES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.227:10338</string>
+		<string>http://183.88.212.205:8010/play/a02e</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,An Giang</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,ASIAN MOVIES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.110:8742</string>
+		<string>http://183.88.212.205:8010/play/a01j</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bà Rịa</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FOX CRIME</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.73:8748</string>
+		<string>http://183.88.212.205:8010/play/a020</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bạc Liêu</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FOX FAMILY MOVIES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.116:8766</string>
+		<string>http://183.88.212.205:8010/play/a01m</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bắc Giang</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NGC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.89:8754</string>
+		<string>http://183.88.212.205:8010/play/a02x</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bắc Kạn</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NGC WILD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.92:8760</string>
+		<string>http://183.88.212.205:8010/play/a02y</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bắc Ninh</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NAT GEO PEOPLE</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.133:8772</string>
+		<string>http://183.88.212.205:8010/play/a02z</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bến Tre</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISCOVERY</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.115:8778</string>
+		<string>http://183.88.212.205:8010/play/a031</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Dương 1</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISCOVERY HD WORLD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.136:8790</string>
+		<string>http://183.88.212.205:8010/play/a00t</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Dương 2</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISCOVERY SCIENCE</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.137:8796</string>
+		<string>http://183.88.212.205:8010/play/a034</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Dương 4-iMovie TV</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISCOVERY TLC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.139:8808</string>
+		<string>http://183.88.212.205:8010/play/a032</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Định</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,ANIMAL PLANET</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.88:8784</string>
+		<string>http://183.88.212.205:8010/play/a030</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Phước</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,OUTDOOR CHANNEL</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.90:8814</string>
+		<string>http://183.88.212.205:8010/play/a03d</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bình Thuận</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,BBC EARTH</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.77:8820</string>
+		<string>http://183.88.212.205:8010/play/a03e</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Cà Mau</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DIVA UNIVERSAL</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.117:8826</string>
+		<string>http://183.88.212.205:8010/play/a03n</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Cao Bằng</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FYI </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.109:8844</string>
+		<string>http://183.88.212.205:8010/play/a00k</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Cần Thơ</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CI</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.144:8838</string>
+		<string>http://183.88.212.205:8010/play/a00j</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đà Nẳng 1</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CCTV 9</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.146:8850</string>
+		<string>http://183.88.212.205:8010/play/a02b</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đà Nẵng 2</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DMAX</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.114:8856</string>
+		<string>http://183.88.212.205:8010/play/a035</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đắk Lắk</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,HISTORY HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.86:8868</string>
+		<string>http://183.88.212.205:8010/play/a00y</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đắk Nông</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,E!</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.72:8874</string>
+		<string>http://183.88.212.205:8010/play/a03o</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Điện Biên</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,BBC WORLD NEWS</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.76:8880</string>
+		<string>http://183.88.212.205:8010/play/a03g</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đồng Nai 1</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CNN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.152:8886</string>
+		<string>http://183.88.212.205:8010/play/a00l</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đồng Nai 2</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,SKY NEWS</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.153:8892</string>
+		<string>http://183.88.212.205:8010/play/a00e</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Đồng Tháp</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CNBC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.154:8898</string>
+		<string>http://183.88.212.205:8010/play/a02c</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Gia Lai</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,FRANCE 24</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.68:8904</string>
+		<string>http://183.88.212.205:8010/play/a02h</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hà Giang</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NHK WORLD TV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.85:8910</string>
+		<string>http://183.88.212.205:8010/play/a028</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hà Nam</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NHK WORLD PREMIUM</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.82:8916</string>
+		<string>http://183.88.212.205:8010/play/a027</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hà Nội 1</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,KBS WORLD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.29:8148</string>
+		<string>http://183.88.212.205:8010/play/a025</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hà Nội 2</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CCTV 4</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.23:8112</string>
+		<string>http://183.88.212.205:8010/play/a02a</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hà Tĩnh</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,STAR WORLD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.96:8922</string>
+		<string>http://183.88.212.205:8010/play/a021</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hải Dương</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,PHOENIX INFO NEWS</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.79:8928</string>
+		<string>http://183.88.212.205:8010/play/a02i</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hải Phòng</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,BLOOMBERG</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.104:8934</string>
+		<string>http://183.88.212.205:8010/play/a02d</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hậu Giang</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISNEY JUNIOR ASIA</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.112:8940</string>
+		<string>http://183.88.212.205:8010/play/a02u</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hòa Bình</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,CARTOON NETWORK</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.71:8946</string>
+		<string>http://183.88.212.205:8010/play/a01b</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Hưng Yên</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,SKYNET CARTOON</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.84:8952</string>
+		<string>http://183.88.212.205:8010/play/a01d</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Kiên Giang</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,ANIMAX</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.113:8964</string>
+		<string>http://183.88.212.205:8010/play/a00h</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Kon Tum</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,NICKELODEON</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.66:8970</string>
+		<string>http://183.88.212.205:8010/play/a01f</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Khánh Hoà</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISNEY CHANNEL ASIA</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.99:8958</string>
+		<string>http://183.88.212.205:8010/play/a02t</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Lai Châu</string>
+		<string>#EXTINF:-1 group-titleAsiaTV,DISNEY XD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.67:9174</string>
+		<string>http://183.88.212.205:8010/play/a00x</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Lạng Sơn</string>
+		<string>#EXTINF:-1 ,KEENG TV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.107:8646</string>
+		<string>http://125.235.29.16/livetv/keeng.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Lào Cai</string>
+		<string>#EXTINF:-1 ,VIET MY TV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.93:8718</string>
+		<string>http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Lâm Đồng</string>
+		<string>#EXTINF:-1,VNA TV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.78:8976</string>
+		<string>http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Long An 34</string>
+		<string>#EXTINF:-1 ,KVLA</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.171:9000</string>
+		<string>http://63.143.59.125:1935/live/myStream/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nam Định</string>
+		<string>#EXTINF:-1,ASO</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.69:9006</string>
+		<string>http://kudrlivo.gcdn.co/local-AsoSport/tracks-v1a1/index.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Ninh Bình</string>
+		<string>#EXTINF:-1,AS</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.80:9018</string>
+		<string>http://kudrlivo.gcdn.co/local-ASport/tracks-v1a1/index.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Ninh Thuận</string>
+		<string>#EXTINF:-1 ,CHANNEL NEWSASIA</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.74:9024</string>
+		<string>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Nghệ An</string>
+		<string>#EXTINF:-1,USA:LONDON LIVE </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.101:9012</string>
+		<string>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Phú Thọ</string>
+		<string>#EXTINF:-1 group-titleUS tvg-logo,USA:ABC NEWS </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.95:9030</string>
+		<string>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd10vab1200varebaseon#7</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Phú Yên</string>
+		<string>#EXTINF:-1 ,USA:Bloomberg</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.161:10362</string>
+		<string>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quãng Bình</string>
+		<string>#EXTINF:-1 group-titleUS tvg-logo,USA:ANIMAL PLANET HD </string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.98:9042</string>
+		<string>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quảng Nam</string>
+		<string>#EXTINF:-1,ARIANG HD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.81:9048</string>
+		<string>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quảng Ninh</string>
+		<string>#EXTINF:-1 ,CNN PHILIPPIN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.181:9060</string>
+		<string>rtmp://54.251.134.121/live/15273.sdp</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quảng Ngãi</string>
+		<string>#EXTINF:-1,ABC News</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.108:9054</string>
+		<string>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Quảng Trị</string>
+		<string>#EXTINF:-1 ,CBSN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.105:9066</string>
+		<string>http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Sóc Trăng</string>
+		<string>#EXTINF:-1, NBC GOLF SD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.103:9072</string>
+		<string>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Sơn La</string>
+		<string>#EXTINF:-1, NBC GOLF 720p</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.184:9078</string>
+		<string>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Tây Ninh 11</string>
+		<string>#EXTINF:-1, NBC GOLF 1080p</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.97:9084</string>
+		<string>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Tiền Giang</string>
+		<string>#EXTINF:-1, BeinSports 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.189:9108</string>
+		<string>rtmp://178.132.6.125/static/bein1</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Tuyên Quang</string>
+		<string>#EXTINF:-1, BeinSports 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.91:9138</string>
+		<string>rtmp://178.132.6.125/static/bein2</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thái Bình</string>
+		<string>#EXTINF:-1, BeinSports 3</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.100:9090</string>
+		<string>rtmp://178.132.6.125/static/bein3</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thái Nguyên 1</string>
+		<string>#EXTINF:-1, BeinSports 4</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.87:9096</string>
+		<string>rtmp://178.132.6.125/static/bein4</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thái Nguyên 2</string>
+		<string>#EXTINF:-1, BeinSports 5</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.70:9168</string>
+		<string>rtmp://178.132.6.125/static/bein5</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thanh Hoá</string>
+		<string>#EXTINF:-1, BeinSports 6</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.111:9102</string>
+		<string>rtmp://178.132.6.125/static/bein6</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thừa Thiên Huế</string>
+		<string>#EXTINF:-1, BeinSports 7</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.106:9042</string>
+		<string>rtmp://178.132.6.125/static/bein7</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Trà Vinh</string>
+		<string>#EXTINF:-1, BeinSports 8</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.102:8472</string>
+		<string>rtmp://178.132.6.125/static/bein8</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Vĩnh Long 1</string>
+		<string>#EXTINF:-1, BeinSports 9</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.195:9144</string>
+		<string>rtmp://178.132.6.125/static/bein9</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Vĩnh Long 2</string>
+		<string>#EXTINF:-1, BeinSports 10</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.196:9150</string>
+		<string>rtmp://178.132.6.125/static/bein10</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Vĩnh Phúc</string>
+		<string>#EXTINF:-1 USA TV,FOX SPORTS 1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.83:9156</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/188.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Yên Bái</string>
+		<string>#EXTINF:-1 FOX SPORTS 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.75:8790</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/187.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VOV Giao thông</string>
+		<string>#EXTINF:-1 HBO 2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.38:8202</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/174.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VOV TV</string>
+		<string>#EXTINF:-1 ,HBO COMEDY</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.46:8256</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/173.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VOV1</string>
+		<string>#EXTINF:-1 tvg-idHBOFamily.us tvg-nameHBO FAMILY tvg-logohttp://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png/medium group-titleUSA TV,HBO FAMILY</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.33:8172</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/172.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VOV2</string>
+		<string>#EXTINF:-1 tvg-idMLBNetwork.us tvg-nameMLB NETWORK tvg-logohttp://www.thelogodb.com/images/media/logo/stsxyv1475892891.png/medium group-titleUSA TV,MLB NETWORK</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.37:8196</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/160.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VOV3</string>
+		<string>#EXTINF:-1 tvg-idMTV.us tvg-nameMTV tvg-logohttps://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium group-titleUSA TV,MTV</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.34:8178</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/158.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC1</string>
+		<string>#EXTINF:-1 tvg-idNatGeoWild.us tvg-nameNAT GEO WILD tvg-logohttps://www.thelogodb.com/images/media/logo/sqsvxt1433778733.png/medium group-titleUSA TV,NAT GEO WILD</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.30:8154</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/157.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+1</string>
+		<string>#EXTINF:-1 tvg-idNBCSportsNetwork.us tvg-nameNBCSN tvg-logohttps://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium group-titleUSA TV,NBCSN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.96:8550</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/149.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+1 HD</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameNFL NOW tvg-logohttp://www.thelogodb.com/images/media/logo/4ug6cz1493848278.png group-titleUSA TV,NFL NOW</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.122:10314</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/148.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+NS</string>
+		<string>#EXTINF:-1 tvg-idNHLNetwork.us tvg-nameNHL NETWORK tvg-logohttps://www.thelogodb.com/images/media/logo/uvrxut1433429052.png/medium group-titleUSA TV,NHL NETWORK</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.97:8556</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/147.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+NS HD</string>
+		<string>#EXTINF:-1 tvg-idTurnerClassicMovies.us tvg-nameTCM tvg-logohttps://www.thelogodb.com/images/media/logo/wvvqxs1433965422.png/medium group-titleUSA TV,TCM</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.123:10320</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/128.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+PM</string>
+		<string>#EXTINF:-1 tvg-idTLC.us tvg-nameTLC tvg-logohttps://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium group-titleUSA TV,TLC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.98:8562</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/119.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+PM HD</string>
+		<string>#EXTINF:-1 tvg-idAandE.us tvg-nameAvaE tvg-logohttp://www.thelogodb.com/images/media/logo/jzkqa31493258257.png group-titleUSA TV,AvaE</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.125:10326</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/267.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+PC</string>
+		<string>#EXTINF:-1 tvg-idABC.us tvg-nameABC tvg-logohttps://www.thelogodb.com/images/media/logo/sqsqst1456747365.png/medium group-titleUSA TV,ABC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.131:10368</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/263.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,K+PC HD</string>
+		<string>#EXTINF:-1 tvg-idAmericanHeroesChannel.us tvg-nameAMERICAN HEROES tvg-logohttps://www.thelogodb.com/images/media/logo/uxwpuq1467823153.png/medium group-titleUSA TV,AMERICAN HEROES</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.176:10374</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/241.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bóng đá 801 HD</string>
+		<string>#EXTINF:-1 tvg-idAnimalPlanet.us tvg-nameANIMAL PLANET tvg-logohttps://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium group-titleUSA TV,ANIMAL PLANET</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.50:8280</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/262.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bóng đá 802 HD</string>
+		<string>#EXTINF:-1 tvg-idCartoonNetwork.us tvg-nameCARTOON NETWORK tvg-logohttp://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium group-titleUSA TV,CARTOON NETWORK</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.51:8286</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/258.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bóng đá 803 HD</string>
+		<string>#EXTINF:-1 tvg-idCBS.us tvg-nameCBS tvg-logohttp://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png/medium group-titleUSA TV,CBS</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.56:8316</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/266.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Mosaic 1</string>
+		<string>#EXTINF:-1 tvg-idCNN.us tvg-nameCNN tvg-logohttps://www.thelogodb.com/images/media/logo/uyswus1433941237.png/medium group-titleUSA TV,CNN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.242:9426</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/260.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Mosaic 2</string>
+		<string>#EXTINF:-1 tvg-idComedyCentral.us tvg-nameCOMEDY CENTRAL tvg-logohttp://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png group-titleUSA TV,COMEDY CENTRAL</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.243:9432</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/257.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Ha Noi 1 PIP</string>
+		<string>#EXTINF:-1 tvg-idDiscoveryChannel.us tvg-nameDISCOVERY CHANNEL tvg-logohttps://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium group-titleUSA TV,DISCOVERY CHANNEL</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.110:8634</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/255.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,FOX Sports 2 PIP</string>
+		<string>#EXTINF:-1 tvg-idESPN.us tvg-nameESPN tvg-logohttps://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium group-titleUSA TV,ESPN</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.249:9468</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/256.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTV3 PIP</string>
+		<string>#EXTINF:-1 tvg-idFoxNews.us tvg-nameFox News Channel tvg-logohttps://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png/medium group-titleUSA TV,Fox News Channel</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.111:8640</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/252.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTC13 PIP</string>
+		<string>#EXTINF:-1 tvg-idHistoryChannel.us tvg-nameHISTORY tvg-logohttps://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium group-titleUSA TV,HISTORY</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.236:9390</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/251.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,TLC PIP</string>
+		<string>#EXTINF:-1 tvg-idNatGeo.us tvg-nameNATIONAL GEOGRAPHIC CHANNEL tvg-logohttps://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium group-titleUSA TV,NATIONAL GEOGRAPHIC CHANNEL</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.237:9396</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/247.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Star Movies PIP</string>
+		<string>#EXTINF:-1 tvg-idNBC.us tvg-nameNBC tvg-logohttps://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png/medium group-titleUSA TV,NBC</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.93:8532</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/248.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,HBO SD PIP</string>
+		<string>#EXTINF:-1 tvg-idNickelodeon.us tvg-nameNICKELODEON tvg-logohttps://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium group-titleUSA TV,NICKELODEON</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.102:8586</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/265.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,RAI-Italia</string>
+		<string>#EXTINF:-1 tvg-idSpike.us tvg-nameSPIKE tvg-logohttps://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png/medium group-titleUSA TV,SPIKE</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.64:8358</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/246.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,POCCNR PTP-Tieng Nga</string>
+		<string>#EXTINF:-1 tvg-idSyfy.us tvg-nameSYFY tvg-logohttps://www.thelogodb.com/images/media/logo/vsppsu1433438058.png/medium group-titleUSA TV,SYFY</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.95:8544</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/245.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,RTTieng Nga</string>
+		<string>#EXTINF:-1 tvg-idUSANetwork.us tvg-nameUSA NETWORK tvg-logohttps://www.thelogodb.com/images/media/logo/yswxwr1433432126.png/medium group-titleUSA TV,USA NETWORK</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.94:8538</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/242.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Bac Lieu</string>
+		<string>#EXTINF:-1 tvg-idBravo.us tvg-nameBRAVO tvg-logohttps://www.thelogodb.com/images/media/logo/qwqrws1434470899.png/medium group-titleUSA TV,BRAVO</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.132:8766</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/315.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Binh Dinh 2</string>
+		<string>#EXTINF:-1 tvg-idCW.us tvg-nameCW tvg-logohttps://www.thelogodb.com/images/media/logo/qspwpv1453168359.png/medium group-titleUSA TV,CW</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.135:8784</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/319.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Can Tho</string>
+		<string>#EXTINF:-1 tvg-idFX.us tvg-nameFX East tvg-logohttps://www.thelogodb.com/images/media/logo/uwysvp1436890056.png/medium group-titleUSA TV,FX East</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.118:8838</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/324.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Da Nang 2</string>
+		<string>#EXTINF:-1 tvg-idFXX.us tvg-nameFXX tvg-logohttps://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png/medium group-titleUSA TV,FXX</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.147:8856</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/323.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Dak Lak</string>
+		<string>#EXTINF:-1 tvg-idH2 tvg-nameH2 tvg-logohttps://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png/medium group-titleUSA TV,H2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.149:8868</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/309.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,DN9-AZShop</string>
+		<string>#EXTINF:-1 tvg-idHBO.us tvg-nameHBO tvg-logohttps://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium group-titleUSA TV,HBO</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.243:10476</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/317.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thua Thien Hue</string>
+		<string>#EXTINF:-1 tvg-idHBOZone.us tvg-nameHBO ZONE tvg-logohttp://www.thelogodb.com/images/media/logo/xutsrq1477987782.png/medium group-titleUSA TV,HBO ZONE</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.106:9120</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/321.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Tra Vinh</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameCAN-TSN1 tvg-logo group-titleCANADIAN TV,CAN-TSN1</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.102:9114</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/2429.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Yen Bai</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameCAN-TSN2 tvg-logo group-titleCANADIAN TV,CAN-TSN2</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.75:9162</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/2428.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,VTVCap13-HYUNDAI</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameCAN-TSN3 tvg-logo group-titleCANADIAN TV,CAN-TSN3</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.237:10446</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/2427.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Thong tan xa Viet Nam</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameCAN-TSN4 tvg-logo group-titleCANADIAN TV,CAN-TSN4</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.2.238:10434</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/2426.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>#EXTINF:-1,Ha Noi 2 PIP</string>
+		<string>#EXTINF:-1 tvg-id tvg-nameCAN-TSN5 tvg-logo group-titleCANADIAN TV,CAN-TSN5</string>
 		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.106:8610</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>#EXTINF:-1,NHK World PIP</string>
-		<key>url</key>
-		<string>http://14.182.161.80:4022/rtp/232.84.1.247:9456</string>
+		<string>http://thepk.co:2095/live/tyler/tyler2017/2425.ts</string>
 	</dict>
 	<dict>
 		<key>title</key>

@@ -175,7 +175,7 @@ forRowAtIndexPath:(NSIndexPath *)indexPath
     }();
     
     NSString *path =
-    [NSHomeDirectory() stringByAppendingPathComponent:kIPTVDataBasePath];
+    [NSHomeDirectory() stringByAppendingPathComponent:kIPTVVietDataBasePath];
     
     _dataSource = ^{
         NSArray *temp = [NSArray arrayWithContentsOfFile:path];
@@ -189,7 +189,7 @@ forRowAtIndexPath:(NSIndexPath *)indexPath
     [self.tableView reloadData];
     
     NSString *path =
-    [NSHomeDirectory() stringByAppendingPathComponent:kIPTVDataBasePath];
+    [NSHomeDirectory() stringByAppendingPathComponent:kIPTVVietDataBasePath];
     
     [_dataSource writeToFile:path atomically:YES];
 }
